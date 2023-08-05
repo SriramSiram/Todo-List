@@ -1,0 +1,66 @@
+.containerbig{
+    background-color:aqua;
+    height:100vh;
+    width:100vw;
+    padding-left:20px;
+    padding-right:20px;
+}
+.heading{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align:center;
+}
+.container1{
+    background-color: white;
+    padding:10px;
+    margin-bottom:15px;
+}
+.colorwhite{
+    background-color:aqua;
+    padding:10px;
+    width:100%;
+}
+.inputtask{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    width:75%;
+}
+.taskbutton{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-left:auto;
+    border-color: aqua;
+    border-radius: 8px;
+    width:20%;
+}
+.container2{
+    background-color: white;
+    padding:10px;
+}
+.headingtasklist{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:20px;
+}
+.colorblue{
+    background-color:aqua;
+    width:100%;
+    padding:5px;
+}
+.item1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    width:55%;
+    margin-right:10px;
+}
+.editbutton{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    width:20%;
+    margin-right:10px;
+    border-color: aqua;
+    border-radius: 8px;
+}
+.deletebutton{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    width:20%;
+    border-color: aqua;
+    border-radius: 8px;
+}
+.space{
+    margin-bottom: 5px;
+}
